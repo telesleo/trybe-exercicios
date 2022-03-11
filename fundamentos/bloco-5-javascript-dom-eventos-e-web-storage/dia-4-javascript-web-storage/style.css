@@ -1,0 +1,91 @@
+body
+{
+    background-color: rgb(37, 37, 37);
+    color: rgb(211, 211, 211);
+    font-family: montserrat, sans-serif;
+}
+
+h3
+{
+    font-weight: 400;
+    color: rgb(211, 211, 211);
+    text-align: center;
+}
+
+#sourceText
+{
+    width: 65%;
+    height: 100px;
+    background-color: gray;
+    font-family: montserrat, sans-serif;
+    border-radius: 5px;
+}
+
+#sourceTextSection
+{
+    text-align: center;
+    vertical-align: top;
+}
+
+.botao
+{
+    background-color: rgb(212, 212, 212);
+    color: black;
+    width: fit-content;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 100px;
+}
+
+#textSection
+{
+    width: 65%;
+    margin: auto;
+}
+
+#temaSection
+{
+    display: flex;
+    width: fit-content;
+    margin: auto;
+}
+
+.box
+{
+    width: 100px;
+    height: 60px;
+    font-size: 10px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.cinzaEscuro
+{
+    background-color: rgb(37, 37, 37);
+    color: rgb(211, 211, 211);
+}
+
+.cinzaClaro
+{
+    background-color: rgb(211, 211, 211);
+    color: rgb(37, 37, 37);
+}
+
+.azul
+{
+    background-color: rgb(25, 36, 56);
+    color: rgb(231, 214, 182);
+}
+
+.vermelho
+{
+    background-color: rgb(44, 20, 20);
+    color: rgb(204, 221, 226);
+}
